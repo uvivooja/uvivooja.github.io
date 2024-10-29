@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvivooja.github.io/sitemap_index.uvivooja
